@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizzbuzz game",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdi1712/fizzbuzz.git"
+  },
+  "author": "mehdifaridi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehdi1712/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/mehdi1712/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
